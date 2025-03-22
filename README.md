@@ -1,4 +1,4 @@
-# Jarvis Assistant for Visually Imapred 🔥
+# Jarvis Assistant for Visually Impaired 🔥
 
 <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
 
