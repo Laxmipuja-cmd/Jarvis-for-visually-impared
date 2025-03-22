@@ -1,4 +1,4 @@
-# Jarvis Desktop Voice Assistant🔥
+# Jarvis Assistant for Visually Imapred 🔥
 
 <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
 
@@ -83,15 +83,9 @@ Python 3.6+
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📌Author
 
-👤 **Kishan Kumar Rai**
 
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
 
-## 📌Show your support
 
 Please ⭐️ this repository if this project helped you!
 
